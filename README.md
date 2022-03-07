@@ -1,2 +1,1 @@
-# ruby-is-for-fun-exercices
-# ruby-is-for-fun-exercices
+# Ruby Is For Fun Exercises
